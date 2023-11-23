@@ -1,0 +1,14 @@
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\bin\Debug\net7.0\Point-Figure.exe
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\bin\Debug\net7.0\Point-Figure.deps.json
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\bin\Debug\net7.0\Point-Figure.runtimeconfig.json
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\bin\Debug\net7.0\Point-Figure.dll
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\bin\Debug\net7.0\Point-Figure.pdb
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\Point-Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\Point-Figure.AssemblyInfoInputs.cache
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\Point-Figure.AssemblyInfo.cs
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\Point-Figure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\Point-Figure.dll
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\refint\Point-Figure.dll
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\Point-Figure.pdb
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\Point-Figure.genruntimeconfig.cache
+C:\Users\User\source\LBC#\LB3\2\Point-Figure\obj\Debug\net7.0\ref\Point-Figure.dll
